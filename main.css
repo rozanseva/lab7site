@@ -1,0 +1,26 @@
+h1 {
+	
+	font-size: 35px;
+	text-align: center;
+}
+h3{
+	font-size: 25px;
+}
+
+h2{
+	font-size: 20px;
+	text-align: right;
+}
+div{
+	
+}
+p{
+	font-size: 20px;
+}
+li{
+	font-size: 20px;
+
+}
+body{
+	background: linear-gradient(#DCDCDC, #D3D3D3, #A9A9A9, #808080, #696969);
+}
